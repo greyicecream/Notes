@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "d20398eaa8698bca",
+    "type": "split",
+    "children": [
+      {
+        "id": "849fbdfcbcb4157d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bae0d533607389bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HCIP/01 认识设备.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2873585a7ee45943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HCIP/01 认识设备.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00fcc69c94773847",
+    "type": "split",
+    "children": [
+      {
+        "id": "c939f7a787f3a60d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c155f6b94087860",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbb34679ad297c7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "751e860de18094e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "01cc7addd920d0c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ecaba2666c0a045",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8124d44ea5af53b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HCIP/01 认识设备.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45bedbe7e8f5ce9f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HCIP/01 认识设备.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b97d38121f574358",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "64d17d0fd0bd1d2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HCIP/01 认识设备.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4c155f6b94087860",
+  "lastOpenFiles": [
+    "笔记一.md",
+    "笔记二.md",
+    "HCIP-Datacom-core Technology.md",
+    "笔记一.md.nssyncsc",
+    "笔记二.md.nssyncsc",
+    "HCIP-Datacom-core Technology.md.nssyncsc",
+    "_remotely-save-metadata-on-remote.json",
+    "_remotely-save-metadata-on-remote.json.nssyncsc",
+    "HCIP",
+    "HCIP/02 IP路由基础.md",
+    "HCIP/01 认识设备.md"
+  ]
+}
