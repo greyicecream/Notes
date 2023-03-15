@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCIP/02 IP路由基础.md",
+                "file": "HCIP/01 认识设备.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCIP/02 IP路由基础.md",
+                "file": "HCIP/01 认识设备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HCIP/02 IP路由基础.md",
+                "file": "HCIP/01 认识设备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HCIP/02 IP路由基础.md"
+                "file": "HCIP/01 认识设备.md"
               }
             }
           }
@@ -154,14 +154,15 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "bae0d533607389bf",
   "lastOpenFiles": [
-    "HCIP/01 认识设备.md",
-    "README.md",
     "HCIP/02 IP路由基础.md",
+    "README.md",
+    "HCIP/01 认识设备.md",
     "笔记一.md",
     "笔记二.md",
     "HCIP-Datacom-core Technology.md",
