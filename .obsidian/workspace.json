@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCIP/01 认识设备.md",
+                "file": "HCIP/02 IP路由基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCIP/01 认识设备.md",
+                "file": "HCIP/02 IP路由基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HCIP/01 认识设备.md",
+                "file": "HCIP/02 IP路由基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HCIP/01 认识设备.md"
+                "file": "HCIP/02 IP路由基础.md"
               }
             }
           }
@@ -158,8 +157,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4c155f6b94087860",
+  "active": "bae0d533607389bf",
   "lastOpenFiles": [
+    "HCIP/01 认识设备.md",
+    "README.md",
+    "HCIP/02 IP路由基础.md",
     "笔记一.md",
     "笔记二.md",
     "HCIP-Datacom-core Technology.md",
@@ -168,8 +170,6 @@
     "HCIP-Datacom-core Technology.md.nssyncsc",
     "_remotely-save-metadata-on-remote.json",
     "_remotely-save-metadata-on-remote.json.nssyncsc",
-    "HCIP",
-    "HCIP/02 IP路由基础.md",
-    "HCIP/01 认识设备.md"
+    "HCIP"
   ]
 }
