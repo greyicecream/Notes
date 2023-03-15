@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "849fbdfcbcb4157d",
+        "id": "8ae7a0c41af81c05",
         "type": "tabs",
         "children": [
           {
-            "id": "bae0d533607389bf",
+            "id": "b79347fd58eb0ace",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HCIP/02 IP路由基础.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2873585a7ee45943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HCIP/01 认识设备.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCIP/02 IP路由基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HCIP/02 IP路由基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HCIP/02 IP路由基础.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,10 +138,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "bae0d533607389bf",
+  "active": "b79347fd58eb0ace",
   "lastOpenFiles": [
-    "HCIP/01 认识设备.md",
     "HCIP/02 IP路由基础.md",
+    "HCIP/01 认识设备.md",
     "README.md",
     "笔记一.md",
     "笔记二.md",
