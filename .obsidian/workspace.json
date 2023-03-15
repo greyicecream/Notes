@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8ae7a0c41af81c05",
+        "id": "54862baa1da15258",
         "type": "tabs",
         "children": [
           {
-            "id": "b79347fd58eb0ace",
+            "id": "b256bdd46a2bc665",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HCIP/02 IP路由基础.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HCIP/02 IP路由基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HCIP/02 IP路由基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HCIP/02 IP路由基础.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b79347fd58eb0ace",
+  "active": "b256bdd46a2bc665",
   "lastOpenFiles": [
     "HCIP/02 IP路由基础.md",
     "HCIP/01 认识设备.md",
