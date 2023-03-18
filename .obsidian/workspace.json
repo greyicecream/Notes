@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -177,7 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78219a7fcf3034dd",
+  "active": "64d17d0fd0bd1d2b",
   "lastOpenFiles": [
     "HCIP/01 认识设备.md",
     "HCIP/02 IP路由基础.md",
