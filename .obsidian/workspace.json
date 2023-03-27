@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3b0809ea85e5bb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "广东事业编统考/复习计划.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCIP/02 IP路由基础.md",
+                "file": "广东事业编统考/复习计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HCIP/02 IP路由基础.md",
+                "file": "广东事业编统考/复习计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HCIP/02 IP路由基础.md"
+                "file": "广东事业编统考/复习计划.md"
               }
             }
           },
@@ -177,10 +190,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64d17d0fd0bd1d2b",
+  "active": "e3b0809ea85e5bb4",
   "lastOpenFiles": [
     "HCIP/01 认识设备.md",
+    "广东事业编统考/复习计划.md",
+    "未命名.md",
+    "网络工程师中级",
+    "广东事业编统考",
     "HCIP/02 IP路由基础.md",
+    "HCIP/未命名",
     "README.md",
     "笔记一.md",
     "笔记二.md",
