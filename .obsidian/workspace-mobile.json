@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "广东事业编统考/复习计划.md",
+                "file": "广东事业编统考/职测/数量关系.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "244ee1c6c7fafe47",
+            "id": "9c9f72b0c4b5bf62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "广东事业编统考/言语理解.md",
+                "file": "广东事业编统考/职测/资料分析.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,13 +98,13 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "广东事业编统考/言语理解.md",
+            "file": "广东事业编统考/职测/资料分析.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": false,
+            "backlinkCollapsed": true,
             "unlinkedCollapsed": true
           }
         }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "广东事业编统考/言语理解.md",
+            "file": "广东事业编统考/职测/资料分析.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "广东事业编统考/言语理解.md"
+            "file": "广东事业编统考/职测/资料分析.md"
           }
         }
       },
@@ -182,13 +182,20 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "244ee1c6c7fafe47",
+  "active": "9c9f72b0c4b5bf62",
   "lastOpenFiles": [
-    "广东事业编统考/数量关系.md",
-    "广东事业编统考/复习进度.md",
+    "广东事业编统考/职测/数量关系.md",
+    "广东事业编统考/职测/资料分析.md",
+    "广东事业编统考/职测/言语理解.md",
+    "广东事业编统考/公基/马克思主义哲学.md",
+    "广东事业编统考/公基/党史.md",
     "广东事业编统考/复习计划.md",
     "广东事业编统考/党史.md",
+    "广东事业编统考/职测",
+    "广东事业编统考/公基",
+    "广东事业编统考/复习进度.md",
     "广东事业编统考/言语理解.md",
+    "广东事业编统考/数量关系.md",
     "网络工程师中级/学习进度.md",
     "README.md",
     "HCIP/02 IP路由基础.md",

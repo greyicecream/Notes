@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "广东事业编统考/公基/马克思主义哲学.md",
+                "file": "HCIP/01 认识设备.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "广东事业编统考/公基/马克思主义哲学.md",
+                "file": "HCIP/01 认识设备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "广东事业编统考/公基/马克思主义哲学.md",
+                "file": "HCIP/01 认识设备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "广东事业编统考/公基/马克思主义哲学.md"
+                "file": "HCIP/01 认识设备.md"
               }
             }
           },
@@ -190,25 +190,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d7473d23f8d8c7e",
+  "active": "4c155f6b94087860",
   "lastOpenFiles": [
-    "广东事业编统考/公基/党史.md",
-    "广东事业编统考/公基/马克思主义哲学.md",
-    "广东事业编统考/职测/数量关系.md",
-    "广东事业编统考/职测",
-    "广东事业编统考/复习计划.md",
-    "广东事业编统考/公基",
-    "广东事业编统考/复习进度.md",
+    "README.md",
     "HCIP/01 认识设备.md",
-    "网络工程师中级/学习进度.md",
-    "广东事业编统考/职测/言语理解.md",
     "HCIP/02 IP路由基础.md",
+    "广东事业编统考/复习进度.md",
+    "广东事业编统考/复习计划.md",
+    "广东事业编统考/公基/马克思主义哲学.md",
+    "广东事业编统考/公基/党史.md",
+    "广东事业编统考/职测/数量关系.md",
+    "广东事业编统考/职测/言语理解.md",
+    "广东事业编统考/职测/资料分析.md",
+    "广东事业编统考/职测",
+    "广东事业编统考/公基",
+    "网络工程师中级/学习进度.md",
     "2023-03-27.md",
     "未命名.md",
     "网络工程师中级",
     "广东事业编统考",
     "HCIP/未命名",
-    "README.md",
     "笔记一.md",
     "笔记二.md",
     "HCIP-Datacom-core Technology.md",
