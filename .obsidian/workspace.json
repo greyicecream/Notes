@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a8df3251e4e48fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "广东事业编统考/职测/资料分析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "广东事业编统考/职测/言语理解.md",
+                "file": "广东事业编统考/职测/资料分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "广东事业编统考/职测/言语理解.md",
+                "file": "广东事业编统考/职测/资料分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "广东事业编统考/职测/言语理解.md"
+                "file": "广东事业编统考/职测/资料分析.md"
               }
             }
           },
@@ -190,8 +202,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d7473d23f8d8c7e",
+  "active": "5a8df3251e4e48fe",
   "lastOpenFiles": [
+    "广东事业编统考/职测/判断推理.md",
     "广东事业编统考/职测/资料分析.md",
     "广东事业编统考/职测/言语理解.md",
     "广东事业编统考/职测/数量关系.md",
