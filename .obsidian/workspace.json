@@ -58,13 +58,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c155f6b94087860",
+            "id": "751e860de18094e3",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
+              "type": "starred",
+              "state": {}
             }
           },
           {
@@ -83,14 +81,17 @@
             }
           },
           {
-            "id": "751e860de18094e3",
+            "id": "4c155f6b94087860",
             "type": "leaf",
             "state": {
-              "type": "starred",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
