@@ -6,7 +6,7 @@
       {
         "id": "54862baa1da15258",
         "type": "tabs",
-        "dimension": 47.29857819905213,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "b256bdd46a2bc665",
@@ -27,25 +27,6 @@
               "type": "markdown",
               "state": {
                 "file": "广东事业编统考/复习计划.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f6ee5665fa61eb4d",
-        "type": "tabs",
-        "dimension": 52.70142180094787,
-        "children": [
-          {
-            "id": "9d7473d23f8d8c7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "招聘/用人单位要求统计.md",
                 "mode": "source",
                 "source": false
               }
