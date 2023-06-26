@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N100/基础搭建.md",
+                "file": "招聘/用人单位要求统计.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N100/基础搭建.md",
+                "file": "招聘/用人单位要求统计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N100/基础搭建.md",
+                "file": "招聘/用人单位要求统计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N100/基础搭建.md"
+                "file": "招聘/用人单位要求统计.md"
               }
             }
           },
@@ -212,23 +212,26 @@
   },
   "active": "b256bdd46a2bc665",
   "lastOpenFiles": [
-    "HCIP/未命名.md",
+    "招聘/技能清单.md",
+    "招聘/用人单位要求统计.md",
+    "README.md",
+    "招聘",
+    "Pasted image 20230506185030.png",
+    "Pasted image 20230415100101.png",
     "N100/基础搭建.md",
+    "HCIP/未命名.md",
     "N100",
     "广东事业编统考/公基/马克思主义哲学.md",
-    "Pasted image 20230506185030.png",
     "广东事业编统考/复习计划.md",
     "广东事业编统考/复习进度.md",
     "网络工程师中级/学习进度.md",
     "HCIP/01 认识设备.md",
     "HCIP/02 IP路由基础.md",
-    "Pasted image 20230415100101.png",
     "广东事业编统考/职测/判断推理.md",
     "广东事业编统考/公基/党史.md",
     "广东事业编统考/职测/言语理解.md",
     "广东事业编统考/职测/资料分析.md",
     "广东事业编统考/职测/数量关系.md",
-    "README.md",
     "广东事业编统考/职测",
     "广东事业编统考/公基",
     "2023-03-27.md",
@@ -241,7 +244,6 @@
     "HCIP-Datacom-core Technology.md",
     "笔记一.md.nssyncsc",
     "笔记二.md.nssyncsc",
-    "HCIP-Datacom-core Technology.md.nssyncsc",
-    "_remotely-save-metadata-on-remote.json"
+    "HCIP-Datacom-core Technology.md.nssyncsc"
   ]
 }
