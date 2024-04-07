@@ -76,9 +76,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89aaf596ef23d6ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "招聘/技能清单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "招聘/技能清单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "招聘/技能清单.md"
+              }
             }
           },
           {
@@ -240,7 +254,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "751e860de18094e3",
+  "active": "89aaf596ef23d6ac",
   "lastOpenFiles": [
     "广东省考/速算.md",
     "广东事业编统考/公基/党史.md",
